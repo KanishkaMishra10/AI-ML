@@ -24,3 +24,8 @@ You are required to model the price of cars with the available independent varia
 4. Sklearn
 
 #### Model Used - Linear Regression
+
+## Heart-Disease Prediction
+
+#### Model Used : KNN-Classification and Logistic Regression
+
