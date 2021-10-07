@@ -5,7 +5,7 @@ I have included all the assignments and projects performed during the course.
 
 # Assignments
 
-## Car Price Prediction -
+## 1. Car Price Prediction -
 
 #### Problem Statement-
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts.
@@ -25,7 +25,7 @@ You are required to model the price of cars with the available independent varia
 
 #### Model Used - Linear Regression
 
-## Heart-Disease Prediction
+## 2. Heart-Disease Prediction
 
 #### Model Used : KNN-Classification and Logistic Regression
 
