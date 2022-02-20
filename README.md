@@ -29,7 +29,7 @@ You are required to model the price of cars with the available independent varia
 
 #### Model Used : KNN-Classification and Logistic Regression
 
-## 3. Area /burnt due to Forest Fire Prediction
+## 3. Prediction of Area burnt due to Forest Fire
 
 #### Dataset - The forest fire dataset is used that contains meteorological and related data of the north-east region of Portugal. I chose this dataset from the UCI Machine Learning Archive; this is an open-source dataset collection website with a large range of genuine and reliable Datasets.
 
