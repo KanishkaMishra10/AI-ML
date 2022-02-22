@@ -52,3 +52,7 @@ Attribute Information:
 
 #### Model Used- Regression
 
+## 4. Drug Comsumption 
+
+#### Model Used- Classification
+
