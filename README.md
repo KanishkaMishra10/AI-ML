@@ -54,5 +54,10 @@ Attribute Information:
 
 ## 4. Drug Comsumption 
 
+#### Dataset: Drug Consumption Dataset is used where each independent variable contains 7 classes.
+Link: https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29 
+
+#### Problem Statament: Drug Consumption Dataset is used which contains respondents’ personal details, as well as personality measurements and record of consumption of various drugs.
+
 #### Model Used- Classification
 
