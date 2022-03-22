@@ -61,3 +61,12 @@ Link: https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
 
 #### Model Used- Classification
 
+## 5. Customer Segmentation
+
+#### Dataset: It has 5 features
+Link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+#### Problem Statement: You want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
+
+#### Model Used - Clustering (K-Means Algorithm)
+
