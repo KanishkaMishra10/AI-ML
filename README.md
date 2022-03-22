@@ -70,3 +70,4 @@ Link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutoria
 
 #### Model Used - Clustering (K-Means Algorithm)
 
+
